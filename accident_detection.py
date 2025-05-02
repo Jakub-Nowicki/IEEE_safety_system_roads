@@ -1157,9 +1157,9 @@ if __name__ == "__main__":
     if not args.files:
         # Default image and video paths
         args.files = [
-            r"C:\Users\jjnow\OneDrive\Desktop\repositories\IEE_safety_system_roads\Accident.png",
-            r"C:\Users\jjnow\OneDrive\Desktop\repositories\IEE_safety_system_roads\p050q1w8.jpg",
-            r"C:\Users\jjnow\OneDrive\Desktop\repositories\IEE_safety_system_roads\video_1.mp4"
+            r"C:\Users\jjnow\OneDrive\Desktop\repositories\IEEE_safety_system_roads\Accident.png",
+            r"C:\Users\jjnow\OneDrive\Desktop\repositories\IEEE_safety_system_roads\p050q1w8.jpg",
+            r"C:\Users\jjnow\OneDrive\Desktop\repositories\IEEE_safety_system_roads\video_1.mp4"
         ]
 
     # Determine whether to run in GUI or CLI mode
